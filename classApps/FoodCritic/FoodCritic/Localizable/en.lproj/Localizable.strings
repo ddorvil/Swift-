@@ -1,0 +1,28 @@
+/* 
+  Localizable.strings
+  ForSale
+
+  Created by CSC214 Instructor on 8/3/19.
+  Copyright © 2019 University of Rochester. All rights reserved.
+*/
+
+
+"str_name"              = "Name";
+"str_price"             = "Price";
+"str_details"           = "Details";
+
+"str_addItem"           = "Add Item";
+"str_addImage"          = "Add Image";
+
+"str_delete"            = "Delete Item";
+
+"str_done"              = "Done";
+"str_ok"                = "OK";
+
+"str_reviewWasSaved"    = "Your review was saved!";
+
+"str_reviews"           = "Reviews";
+
+
+
+
